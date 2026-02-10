@@ -1,3 +1,4 @@
+// brute force
 int longestBalanced(int* nums, int numsSize) {
     int check[100001] = {0, };
     int even_len, odd_len; 
