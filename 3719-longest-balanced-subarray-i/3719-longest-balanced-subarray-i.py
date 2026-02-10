@@ -1,3 +1,4 @@
+# brute force
 class Solution:
     def longestBalanced(self, nums: List[int]) -> int:
         ans = 0
