@@ -34,4 +34,20 @@
 |  |
 | ------- |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/kdm111/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+## Math
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/kdm111/LeetCode/tree/master/1025-divisor-game) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/kdm111/LeetCode/tree/master/1025-divisor-game) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/kdm111/LeetCode/tree/master/1025-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/kdm111/LeetCode/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
