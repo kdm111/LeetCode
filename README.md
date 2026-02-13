@@ -33,6 +33,7 @@
 ## Sorting
 |  |
 | ------- |
+| [1859-sorting-the-sentence](https://github.com/kdm111/LeetCode/tree/master/1859-sorting-the-sentence) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/kdm111/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Math
 |  |
@@ -50,4 +51,8 @@
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/kdm111/LeetCode/tree/master/1025-divisor-game) |
+## String
+|  |
+| ------- |
+| [1859-sorting-the-sentence](https://github.com/kdm111/LeetCode/tree/master/1859-sorting-the-sentence) |
 <!---LeetCode Topics End-->
